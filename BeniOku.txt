@@ -1,1 +1,55 @@
+Whatsapp Auto Message Sender
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
+××××××××××××××××××××××××××××××××××××
+××××××××××××××××××××××××××××××××××××
+
+Bu uygulama python3.10 sürümü ile yazılmıştır.
+
+Uygulama eğlenmek için yazılmıştır.Whatsapp uygulamasında flood tarzında mesaj gönderir.
+
+××××××××××××××××××××××××××××××××××××
+××××××××××××××××××××××××××××××××××××
+
++▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬+
+| Önemli:                                                               |
+| ▬▬▬▬▬▬▬                                                               |
+|                                                                       |
+| Bu uygulamayı çalıştırabilmek için requirements.txt içerisindeki      |
+| kütüphaneleri yüklemeniz gerekmektedir.Ayrıca tarayıcı yakınlığı %100 |
+| ve ekran çözünürlüğü 1920x1080 olması gerekmektedir.			|	  
+|                                                                       |
++▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬+
+
+××××××××××××××××××××××××××××××××××××
+×××××××××××××××ADIMLAR××××××××××××××
+
+1.
+Uygulama arayüzü açılır ve gerekli girdiler alınır gönder butonuna tıkladıktan sonra işlem başlar.
+
+2.
+Varsayılan olarak ayarlanmış tarayıcıyı açar.
+
+3.
+Whatsapp'ın web uygulamasına gider.
+
+4.
+Girilen kişi ismine gider ve mesajları flood olarak atmaya başlar taki girilen mesaj adetine ulaşılana kadar.
+
+××××××××××××××××××××××××××××××××××××
+××××××××××××××××××××××××××××××××××××
++▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬+
+| Not:                                                               |
+| ▬▬▬▬▬▬▬                                                            |
+|                                                                    |
+| Uygulamada Türkçe karakterler kullanmayınız. (ğ,ü,ş,ç,ö,İ,ı)	     |
+| 					                             |
++▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬+
+××××××××××××××××××××××××××××××××××××
+××××××××××××××××××××××××××××××××××××
+
+Geçmiş:
+▬▬▬▬▬▬▬
+11/04/23 - Oluşturulma tarihi
+
+Teşekkürler
